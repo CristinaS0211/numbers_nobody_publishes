@@ -1,7 +1,7 @@
 
 # Numbers Nobody Publishes – Quant Route
 
-The code is in `numbers_nobody_publishes.ipynb`, with explanations before each step. The final file for the client is `client_file.xlsx`.
+The code is in `numbers_nobody_publishes-SCARLAT_ANDA.ipynb`, with explanations before each step. The final file for the client is `client_file.xlsx`.
 
 ## My approach
 
