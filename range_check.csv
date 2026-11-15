@@ -1,0 +1,3 @@
+﻿target,low_factor_test,high_factor_test,low_factor_cv,high_factor_cv,pct_of_test_firms_inside_cv_range
+employees,0.389,4.02,0.396,4.055,94.876
+revenue,0.027,13.992,0.029,13.762,94.827

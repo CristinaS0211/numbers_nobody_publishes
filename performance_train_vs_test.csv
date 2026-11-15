@@ -1,0 +1,7 @@
+﻿target,set,R2_log,MAE_log,MAE_log_baseline,median_error_factor,pct_within_factor_2
+employees,train,0.121,0.405,0.396,1.34,83.339
+employees,cv,0.118,0.406,0.396,1.343,83.266
+employees,test,0.118,0.406,0.398,1.34,83.176
+revenue,train,0.083,1.155,1.21,2.378,41.797
+revenue,cv,0.08,1.157,1.21,2.381,41.742
+revenue,test,0.081,1.161,1.215,2.381,41.574
