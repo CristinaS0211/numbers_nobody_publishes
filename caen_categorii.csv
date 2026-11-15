@@ -1,0 +1,178 @@
+﻿COD_CAEN,NIVEL,DENUMIRE,CATEGORIE_MARE,CATEGORIE_MICA
+01,divizie,Agricultură și creșterea animalelor,"Agricultură, silvicultură, pescuit",Agricultură și creșterea animalelor
+02,divizie,Silvicultură și exploatare forestieră,"Agricultură, silvicultură, pescuit",Silvicultură și exploatare forestieră
+03,divizie,Pescuit și acvacultură,"Agricultură, silvicultură, pescuit",Pescuit și acvacultură
+05,divizie,Extracția cărbunelui,Industrie extractivă,Extracția cărbunelui
+06,divizie,Extracția petrolului și gazelor,Industrie extractivă,Extracția petrolului și gazelor
+07,divizie,Extracția minereurilor metalifere,Industrie extractivă,Extracția minereurilor metalifere
+08,divizie,"Alte industrii extractive (piatră, nisip)",Industrie extractivă,"Alte industrii extractive (piatră, nisip)"
+09,divizie,Activități de servicii anexe extracției,Industrie extractivă,Activități de servicii anexe extracției
+10,divizie,Industria alimentară,Industrie alimentară,Industria alimentară
+11,divizie,Fabricarea băuturilor,Industrie alimentară,Fabricarea băuturilor
+12,divizie,Fabricarea produselor din tutun,Industrie alimentară,Fabricarea produselor din tutun
+13,divizie,Fabricarea produselor textile,"Textile, îmbrăcăminte, încălțăminte",Fabricarea produselor textile
+14,divizie,Fabricarea articolelor de îmbrăcăminte,"Textile, îmbrăcăminte, încălțăminte",Fabricarea articolelor de îmbrăcăminte
+15,divizie,Fabricarea articolelor de încălțăminte și piele,"Textile, îmbrăcăminte, încălțăminte",Fabricarea articolelor de încălțăminte și piele
+16,divizie,Prelucrarea lemnului,Prelucrare lemn și mobilă,Prelucrarea lemnului
+17,divizie,Fabricarea hârtiei și cartonului,Hârtie și tipografie,Fabricarea hârtiei și cartonului
+18,divizie,Tipărire și reproducerea suporturilor înregistrate,Hârtie și tipografie,Tipărire și reproducerea suporturilor înregistrate
+19,divizie,Prelucrarea țițeiului și cocsificare,"Chimie, petrochimie, farmaceutice",Prelucrarea țițeiului și cocsificare
+20,divizie,Industria chimică,"Chimie, petrochimie, farmaceutice",Industria chimică
+21,divizie,Industria farmaceutică,"Chimie, petrochimie, farmaceutice",Industria farmaceutică
+22,divizie,Prelucrarea cauciucului și maselor plastice,"Cauciuc, plastic, materiale de construcții",Prelucrarea cauciucului și maselor plastice
+23,divizie,Fabricarea altor produse din minerale nemetalice,"Cauciuc, plastic, materiale de construcții",Fabricarea altor produse din minerale nemetalice
+24,divizie,Industria metalurgică,Metalurgie și produse metalice,Industria metalurgică
+25,divizie,Industria construcțiilor metalice,Metalurgie și produse metalice,Industria construcțiilor metalice
+26,divizie,Fabricarea calculatoarelor și produselor electronice,"Electronice, electrice, utilaje",Fabricarea calculatoarelor și produselor electronice
+27,divizie,Fabricarea echipamentelor electrice,"Electronice, electrice, utilaje",Fabricarea echipamentelor electrice
+28,divizie,Fabricarea de mașini și echipamente,"Electronice, electrice, utilaje",Fabricarea de mașini și echipamente
+29,divizie,Industria auto,Industria auto și mijloace de transport,Industria auto
+30,divizie,Fabricarea altor mijloace de transport,Industria auto și mijloace de transport,Fabricarea altor mijloace de transport
+31,divizie,Fabricarea de mobilă,Prelucrare lemn și mobilă,Fabricarea de mobilă
+32,divizie,Alte activități industriale,Alte industrii prelucrătoare,Alte activități industriale
+33,divizie,Repararea și instalarea mașinilor,Reparații și instalare utilaje,Repararea și instalarea mașinilor
+35,divizie,"Energie electrică, termică, gaze","Energie, apă, deșeuri","Energie electrică, termică, gaze"
+36,divizie,Captarea și distribuția apei,"Energie, apă, deșeuri",Captarea și distribuția apei
+37,divizie,Colectarea și epurarea apelor uzate,"Energie, apă, deșeuri",Colectarea și epurarea apelor uzate
+38,divizie,Colectarea și tratarea deșeurilor,"Energie, apă, deșeuri",Colectarea și tratarea deșeurilor
+39,divizie,Decontaminare,"Energie, apă, deșeuri",Decontaminare
+41,divizie,Construcții de clădiri,Construcții,Construcții de clădiri
+42,divizie,"Construcții inginerești (drumuri, utilități)",Construcții,"Construcții inginerești (drumuri, utilități)"
+43,divizie,Lucrări speciale de construcții,Construcții,Lucrări speciale de construcții
+45,divizie,Comerț și service auto,Comerț și service auto,Comerț și service auto
+46,divizie,Comerț cu ridicata,Comerț cu ridicata,Comerț cu ridicata
+47,divizie,Comerț cu amănuntul (general),Comerț cu amănuntul,Comerț cu amănuntul (general)
+49,divizie,Transport terestru și conducte,Transport și depozitare,Transport terestru și conducte
+50,divizie,Transport pe apă,Transport și depozitare,Transport pe apă
+51,divizie,Transport aerian,Transport și depozitare,Transport aerian
+52,divizie,Depozitare și activități anexe transportului,Transport și depozitare,Depozitare și activități anexe transportului
+53,divizie,Poștă și servicii de curier,Transport și depozitare,Poștă și servicii de curier
+55,divizie,"Cazare (hoteluri, pensiuni)",Cazare,"Cazare (hoteluri, pensiuni)"
+56,divizie,Restaurante și baruri,HoReCa,Restaurante și baruri
+58,divizie,Edituri,"Media, IT și telecomunicații",Edituri
+59,divizie,"Producție film, video, muzică","Media, IT și telecomunicații","Producție film, video, muzică"
+60,divizie,Radio și televiziune,"Media, IT și telecomunicații",Radio și televiziune
+61,divizie,Telecomunicații,"Media, IT și telecomunicații",Telecomunicații
+62,divizie,Software și consultanță IT,"Media, IT și telecomunicații",Software și consultanță IT
+63,divizie,"Servicii informatice (hosting, portaluri)","Media, IT și telecomunicații","Servicii informatice (hosting, portaluri)"
+64,divizie,Intermedieri financiare,"Financiar, asigurări, imobiliare",Intermedieri financiare
+65,divizie,Asigurări și fonduri de pensii,"Financiar, asigurări, imobiliare",Asigurări și fonduri de pensii
+66,divizie,Activități auxiliare financiare,"Financiar, asigurări, imobiliare",Activități auxiliare financiare
+68,divizie,Tranzacții imobiliare,"Financiar, asigurări, imobiliare",Tranzacții imobiliare
+69,divizie,Juridic și contabilitate,Servicii profesionale,Juridic și contabilitate
+70,divizie,Consultanță în management,Servicii profesionale,Consultanță în management
+71,divizie,Arhitectură și inginerie,Servicii profesionale,Arhitectură și inginerie
+72,divizie,Cercetare-dezvoltare,Servicii profesionale,Cercetare-dezvoltare
+73,divizie,Publicitate și studii de piață,Servicii profesionale,Publicitate și studii de piață
+74,divizie,"Alte activități profesionale (design, foto, traduceri)",Servicii profesionale,"Alte activități profesionale (design, foto, traduceri)"
+75,divizie,Activități veterinare,Servicii profesionale,Activități veterinare
+77,divizie,Închirieri și leasing,Servicii administrative și suport,Închirieri și leasing
+78,divizie,Activități de angajare (resurse umane),Servicii administrative și suport,Activități de angajare (resurse umane)
+79,divizie,Agenții de turism,Turism,Agenții de turism
+80,divizie,Activități de securitate,Servicii administrative și suport,Activități de securitate
+81,divizie,Curățenie și peisagistică,Servicii administrative și suport,Curățenie și peisagistică
+82,divizie,Servicii administrative de birou,Servicii administrative și suport,Servicii administrative de birou
+84,divizie,Administrație publică,Administrație publică,Administrație publică
+85,divizie,Învățământ,Educație,Învățământ
+86,divizie,Sănătate,Sănătate și asistență socială,Sănătate
+87,divizie,Asistență socială cu cazare,Sănătate și asistență socială,Asistență socială cu cazare
+88,divizie,Asistență socială fără cazare,Sănătate și asistență socială,Asistență socială fără cazare
+90,divizie,Activități de creație și spectacole,"Artă, sport, divertisment",Activități de creație și spectacole
+91,divizie,"Biblioteci, muzee, grădini zoologice","Artă, sport, divertisment","Biblioteci, muzee, grădini zoologice"
+92,divizie,Jocuri de noroc și pariuri,"Artă, sport, divertisment",Jocuri de noroc și pariuri
+93,divizie,"Sport, fitness, recreere","Artă, sport, divertisment","Sport, fitness, recreere"
+94,divizie,Organizații asociative,Organizații asociative,Organizații asociative
+95,divizie,Repararea bunurilor personale și casnice,Servicii personale,Repararea bunurilor personale și casnice
+96,divizie,Alte servicii personale,Servicii personale,Alte servicii personale
+97,divizie,Gospodării care angajează personal casnic,Altele,Gospodării care angajează personal casnic
+98,divizie,Gospodării - producție pentru uz propriu,Altele,Gospodării - producție pentru uz propriu
+99,divizie,Organizații extrateritoriale,Altele,Organizații extrateritoriale
+1011,clasa,Abatorizare și procesare carne,Industrie alimentară,Abatorizare și procesare carne
+1012,clasa,Abatorizare și procesare carne,Industrie alimentară,Abatorizare și procesare carne
+1013,clasa,Abatorizare și procesare carne,Industrie alimentară,Abatorizare și procesare carne
+1020,clasa,Procesare pește,Industrie alimentară,Procesare pește
+1031,clasa,Procesare fructe și legume,Industrie alimentară,Procesare fructe și legume
+1032,clasa,Procesare fructe și legume,Industrie alimentară,Procesare fructe și legume
+1039,clasa,Procesare fructe și legume,Industrie alimentară,Procesare fructe și legume
+1041,clasa,Uleiuri și grăsimi,Industrie alimentară,Uleiuri și grăsimi
+1042,clasa,Uleiuri și grăsimi,Industrie alimentară,Uleiuri și grăsimi
+1051,clasa,Lactate,Industrie alimentară,Lactate
+1052,clasa,Înghețată,Industrie alimentară,Înghețată
+1061,clasa,Mori și produse de morărit,Industrie alimentară,Mori și produse de morărit
+1062,clasa,Mori și produse de morărit,Industrie alimentară,Mori și produse de morărit
+1071,clasa,Panificație și patiserie,Industrie alimentară,Panificație și patiserie
+1072,clasa,Biscuiți și produse de patiserie conservate,Industrie alimentară,Biscuiți și produse de patiserie conservate
+1073,clasa,Paste făinoase,Industrie alimentară,Paste făinoase
+1081,clasa,Zahăr,Industrie alimentară,Zahăr
+1082,clasa,"Cacao, ciocolată, zahăroase",Industrie alimentară,"Cacao, ciocolată, zahăroase"
+1083,clasa,Cafea și ceai (procesare),Industrie alimentară,Cafea și ceai (procesare)
+1084,clasa,Condimente,Industrie alimentară,Condimente
+1089,clasa,Alte produse alimentare,Industrie alimentară,Alte produse alimentare
+1091,clasa,Hrană pentru animale,Industrie alimentară,Hrană pentru animale
+1092,clasa,Hrană pentru animale,Industrie alimentară,Hrană pentru animale
+1101,clasa,Băuturi alcoolice,Industrie alimentară,Băuturi alcoolice
+1102,clasa,Vin,Industrie alimentară,Vin
+1103,clasa,Băuturi alcoolice,Industrie alimentară,Băuturi alcoolice
+1104,clasa,Băuturi alcoolice,Industrie alimentară,Băuturi alcoolice
+1105,clasa,Bere,Industrie alimentară,Bere
+1106,clasa,Bere,Industrie alimentară,Bere
+1107,clasa,Băuturi nealcoolice și apă,Industrie alimentară,Băuturi nealcoolice și apă
+4511,clasa,Comerț autoturisme,Comerț și service auto,Comerț autoturisme
+4519,clasa,Comerț autoturisme,Comerț și service auto,Comerț autoturisme
+4520,clasa,Service auto,Comerț și service auto,Service auto
+4531,clasa,Piese auto,Comerț și service auto,Piese auto
+4532,clasa,Piese auto,Comerț și service auto,Piese auto
+4540,clasa,Moto (comerț și service),Comerț și service auto,Moto (comerț și service)
+4711,clasa,Magazine alimentare / supermarket,Comerț cu amănuntul,Magazine alimentare / supermarket
+4719,clasa,Magazine nespecializate (nealimentare),Comerț cu amănuntul,Magazine nespecializate (nealimentare)
+4721,clasa,"Magazin alimentar (fructe, legume)",Comerț cu amănuntul,"Magazin alimentar (fructe, legume)"
+4722,clasa,Magazin alimentar (carne),Comerț cu amănuntul,Magazin alimentar (carne)
+4723,clasa,Magazin alimentar (pește),Comerț cu amănuntul,Magazin alimentar (pește)
+4724,clasa,"Magazin alimentar (pâine, patiserie)",Comerț cu amănuntul,"Magazin alimentar (pâine, patiserie)"
+4725,clasa,Magazin de băuturi,Comerț cu amănuntul,Magazin de băuturi
+4726,clasa,Magazin alimentar (tutun),Comerț cu amănuntul,Magazin alimentar (tutun)
+4729,clasa,Magazin alimentar specializat,Comerț cu amănuntul,Magazin alimentar specializat
+4730,clasa,Benzinării,Comerț cu amănuntul,Benzinării
+4741,clasa,Magazin electronice și IT,Comerț cu amănuntul,Magazin electronice și IT
+4742,clasa,Magazin electronice și IT,Comerț cu amănuntul,Magazin electronice și IT
+4743,clasa,Magazin electronice și IT,Comerț cu amănuntul,Magazin electronice și IT
+4751,clasa,Magazin textile,Comerț cu amănuntul,Magazin textile
+4752,clasa,Magazin bricolaj și feronerie,Comerț cu amănuntul,Magazin bricolaj și feronerie
+4753,clasa,Magazin mobilă și decorațiuni,Comerț cu amănuntul,Magazin mobilă și decorațiuni
+4754,clasa,Magazin electrocasnice,Comerț cu amănuntul,Magazin electrocasnice
+4759,clasa,Magazin mobilă și decorațiuni,Comerț cu amănuntul,Magazin mobilă și decorațiuni
+4761,clasa,Librărie și papetărie,Comerț cu amănuntul,Librărie și papetărie
+4762,clasa,Librărie și papetărie,Comerț cu amănuntul,Librărie și papetărie
+4763,clasa,Magazin muzică și video,Comerț cu amănuntul,Magazin muzică și video
+4764,clasa,Magazin articole sport,Comerț cu amănuntul,Magazin articole sport
+4765,clasa,Magazin jocuri și jucării,Comerț cu amănuntul,Magazin jocuri și jucării
+4771,clasa,Magazin îmbrăcăminte,Comerț cu amănuntul,Magazin îmbrăcăminte
+4772,clasa,Magazin încălțăminte și piele,Comerț cu amănuntul,Magazin încălțăminte și piele
+4773,clasa,Farmacie,Comerț cu amănuntul,Farmacie
+4774,clasa,Magazin medical și ortopedic,Comerț cu amănuntul,Magazin medical și ortopedic
+4775,clasa,Magazin cosmetice și parfumerie,Comerț cu amănuntul,Magazin cosmetice și parfumerie
+4776,clasa,Florărie și pet shop,Comerț cu amănuntul,Florărie și pet shop
+4777,clasa,Bijuterii și ceasuri,Comerț cu amănuntul,Bijuterii și ceasuri
+4778,clasa,Alte magazine specializate,Comerț cu amănuntul,Alte magazine specializate
+4779,clasa,Magazin second-hand,Comerț cu amănuntul,Magazin second-hand
+4781,clasa,Comerț în piețe și târguri,Comerț cu amănuntul,Comerț în piețe și târguri
+4782,clasa,Comerț în piețe și târguri,Comerț cu amănuntul,Comerț în piețe și târguri
+4789,clasa,Comerț în piețe și târguri,Comerț cu amănuntul,Comerț în piețe și târguri
+4791,clasa,Comerț online / la distanță,Comerț cu amănuntul,Comerț online / la distanță
+4799,clasa,Comerț ambulant și alte forme,Comerț cu amănuntul,Comerț ambulant și alte forme
+5510,clasa,Hoteluri,Cazare,Hoteluri
+5520,clasa,Pensiuni și cazare turistică,Cazare,Pensiuni și cazare turistică
+5530,clasa,Camping,Cazare,Camping
+5590,clasa,Alte tipuri de cazare,Cazare,Alte tipuri de cazare
+5610,clasa,Restaurant / fast-food,HoReCa,Restaurant / fast-food
+5621,clasa,Catering evenimente,HoReCa,Catering evenimente
+5629,clasa,Catering / cantină,HoReCa,Catering / cantină
+5630,clasa,Cafenea / bar,HoReCa,Cafenea / bar
+9311,clasa,Baze sportive,"Artă, sport, divertisment",Baze sportive
+9313,clasa,Fitness și sală,"Artă, sport, divertisment",Fitness și sală
+9319,clasa,Alte activități sportive,"Artă, sport, divertisment",Alte activități sportive
+9601,clasa,Spălătorie / curățătorie,Servicii personale,Spălătorie / curățătorie
+9602,clasa,"Coafor, frizerie și cosmetică",Servicii personale,"Coafor, frizerie și cosmetică"
+9603,clasa,Servicii funerare,Servicii personale,Servicii funerare
+9604,clasa,"Spa, saună, întreținere corporală",Servicii personale,"Spa, saună, întreținere corporală"
+9609,clasa,Alte servicii personale,Servicii personale,Alte servicii personale
